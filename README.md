@@ -4,6 +4,20 @@
 
 <img width="506" alt="image" src="https://github.com/user-attachments/assets/c5fa6695-d887-472c-839c-e24c6e799da2">
 
+### Winners:
+
+* The winner for $75 is @Krayorn! I discovered the Steffen Boarding Method which makes passengers load 2x faster than back to front! Sadly the perfect ordering constraints are not real world friendly :( https://github.com/Algorithm-Arena/weekly-challenge-28-airplane-loading/issues/1
+
+
+https://github.com/user-attachments/assets/66bfa9c5-8f46-48d7-978e-6436aa4511de
+
+
+* In second place for $50 is @reifocS! Well done implementation of the 4 main methods and visualization. https://github.com/Algorithm-Arena/weekly-challenge-28-airplane-loading/issues/2
+
+
+https://github.com/user-attachments/assets/5e9fb5b3-4d89-48e3-8188-0978a3ac742b
+
+
 ### Prizes:
 * Winner: $75
 * 2nd: $50
